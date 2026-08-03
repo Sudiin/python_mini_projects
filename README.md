@@ -10,12 +10,12 @@ Projects
 
 
 2. Made a rock paper and scissor game. <br>
-    Difficulty (2/5)
+    Difficulty (2/5) <br>
     New thing learnt about random module.
 
 3. Made a number guessing game.<br>
     Difficulty (1/5)
 
 4. Made a Quiz Simulator <br>
-    Difficulty (3/5)
+    Difficulty (3/5) <br>
     properly learnt about Dictionary
