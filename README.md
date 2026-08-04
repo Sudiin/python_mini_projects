@@ -5,7 +5,7 @@ This file will show all the mini python projects that i have done and ill learn 
 
 Projects
 
-1.Made a simple rent calcultor. <br>
+1. Made a simple rent calcultor. <br>
     Difficulty (1/5)
 
 
@@ -19,3 +19,7 @@ Projects
 4. Made a Quiz Simulator <br>
     Difficulty (3/5) <br>
     properly learnt about Dictionary
+
+5. Made a Student Grade Manager <br>
+    Difficulty (4/5) <br>
+    learnt about dictionary more
